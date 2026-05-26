@@ -1,4 +1,4 @@
-# Enterprise School Management Platform
+# School Management System
 
 ![Angular](https://img.shields.io/badge/Angular-19-red)
 ![.NET](https://img.shields.io/badge/.NET-8-blue)
@@ -9,10 +9,10 @@
 ![Status](https://img.shields.io/badge/Status-Production-green)
 
 <p align="center">
-  <img src="./assets/branding/hero-banner.png" width="100%" alt="SHIVAM ITCS Enterprise School Management Platform"/>
+  <img src="./assets/branding/hero-banner.png" width="100%" alt="SHIVAM ITCS School Management System"/>
 </p>
 
-Modern enterprise-grade school management platform built with Angular 19 and ASP.NET Core 8, designed for scalable academic operations, analytics, communication, real-time workflows, and administrative management.
+Modern enterprise-grade school management system built with Angular 19 and ASP.NET Core 8, designed for scalable academic operations, analytics, communication, real-time workflows, and administrative management.
 
 ---
 
@@ -81,7 +81,7 @@ Modern enterprise-grade school management platform built with Angular 19 and ASP
 
 ## Platform Overview
 
-The Enterprise School Management Platform is designed to centralize academic operations, administration, communication workflows, analytics, and reporting into a unified scalable ecosystem.
+The Enterprise School Management system is designed to centralize academic operations, administration, communication workflows, analytics, and reporting into a unified scalable ecosystem.
 
 The system enables educational institutions to manage students, staff, attendance, examinations, notifications, and operational workflows through a modern role-based platform with real-time communication capabilities.
 
@@ -202,7 +202,7 @@ Traditional workflows lead to:
 
 ### Solution
 
-The Enterprise School Management Platform was developed to centralize academic operations, administration, analytics, communication, and reporting into a scalable unified ecosystem.
+The Enterprise School Management System was developed to centralize academic operations, administration, analytics, communication, and reporting into a scalable unified ecosystem.
 
 The platform enables:
 - role-based operational workflows
@@ -321,7 +321,7 @@ Backend:
 
 ## Engineering Vision
 
-The Enterprise School Management Platform is designed with a modern product-engineering mindset focused on scalability, operational efficiency, security, real-time workflows, and future-ready architecture.
+The Enterprise School Management System is designed with a modern product-engineering mindset focused on scalability, operational efficiency, security, real-time workflows, and future-ready architecture.
 
 The platform represents a modular enterprise ecosystem built to support evolving academic and administrative operations through modern frontend, backend, and communication technologies.
 
