@@ -53,6 +53,8 @@ Modern enterprise-grade school management platform built with Angular 19 and ASP
 - Optimized state management using NgRx
 - Secure middleware pipeline
 
+---
+
 ## Technology Stack
 
 ### Frontend
@@ -332,9 +334,7 @@ The platform represents a modular enterprise ecosystem built to support evolving
 
 ---
 
-## Live Platform
-
-Frontend:
+🌐 Live Platform:  
 https://pushtiapp.shivamitconsultancy.com/
 
 ---
