@@ -83,37 +83,56 @@ The system enables educational institutions to manage students, staff, attendanc
 
 ## System Architecture
 
-The platform follows a modular enterprise architecture designed for scalability, maintainability, security, and real-time operational workflows.
+The platform follows a scalable enterprise-grade architecture designed for academic operations, real-time communication, analytics, and secure workflow management.
 
-```txt
-┌─────────────────────────────┐
-│      Angular Frontend       │
-│ Angular 19 + NgRx + Charts  │
-└──────────────┬──────────────┘
-               │
-               ▼
-┌─────────────────────────────┐
-│     ASP.NET Core APIs       │
-│  JWT Auth + REST Services   │
-└──────────────┬──────────────┘
-               │
-               ▼
-┌─────────────────────────────┐
-│     Business Services       │
-│ Validation + Workflows      │
-└──────────────┬──────────────┘
-               │
-               ▼
-┌─────────────────────────────┐
-│ Entity Framework + SQL DB   │
-└─────────────────────────────┘
+<p align="center">
+  <img 
+    src="./assets/architecture/enterprise-school-architecture.png" 
+    alt="Enterprise School Management Architecture"
+    width="100%"
+  />
+</p>
 
-External Integrations:
-- Firebase Cloud Messaging
-- SignalR Real-time Notifications
-- Twilio SMS Services
-- PDF & Excel Reporting
-```
+---
+
+### Architecture Highlights
+
+- Modular enterprise architecture
+- Angular 19 frontend ecosystem
+- ASP.NET Core 8 REST APIs
+- JWT authentication & authorization
+- SignalR real-time communication
+- SQL Server relational database
+- Firebase cloud messaging integration
+- Role-based access management
+- Scalable service-oriented workflows
+- Analytics & reporting infrastructure
+
+---
+
+### Core Architecture Layers
+
+| Layer | Responsibility |
+|-------|----------------|
+| Frontend Layer | Angular dashboards, UI workflows, analytics |
+| API Layer | REST APIs, authentication, middleware |
+| Business Layer | Academic workflows & operational services |
+| Data Access Layer | Entity Framework Core & repositories |
+| Database Layer | SQL Server relational storage |
+| Integrations | SignalR, Firebase, Email, SMS services |
+
+---
+
+### Enterprise Capabilities
+
+- Real-time notifications
+- Secure API ecosystem
+- Scalable workflow architecture
+- Cross-platform communication
+- Centralized academic management
+- Advanced operational analytics
+- Extensible enterprise modules
+
 
 ## Platform Preview
 
