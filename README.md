@@ -8,10 +8,6 @@
 ![Database](https://img.shields.io/badge/Database-SQL%20Server-blue)
 ![Status](https://img.shields.io/badge/Status-Production-green)
 
-<p align="center">
-  <img src="./assets/branding/hero-banner.png" width="100%" alt="SHIVAM ITCS School Management System"/>
-</p>
-
 Modern enterprise-grade school management system built with Angular 19 and ASP.NET Core 8, designed for scalable academic operations, analytics, communication, real-time workflows, and administrative management.
 
 ---
